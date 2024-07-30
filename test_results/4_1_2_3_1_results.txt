@@ -1,0 +1,29 @@
+game count:
+{'Thunderbolts': 3, 'Firestorm': 3, 'Mavericks': 3, 'Avalanche': 3}
+break count
+{'Thunderbolts': 0, 'Firestorm': 0, 'Mavericks': 0, 'Avalanche': 0}
+
+Team Play Count Matrix:
+Teams          Thunderbolts    Firestorm       Mavericks       Avalanche      
+Thunderbolts   0               1               1               1              
+Firestorm      1               0               1               1              
+Mavericks      1               1               0               1              
+Avalanche      1               1               1               0              
+Thunderbolts:
+  6:30: 3
+
+Firestorm:
+  6:30: 3
+
+Mavericks:
+  6:30: 3
+
+Avalanche:
+  6:30: 3
+
+Week 1, Time 6:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 1, Time 6:30, Field 2: ('Avalanche', 'Firestorm')
+Week 2, Time 6:30, Field 1: ('Avalanche', 'Mavericks')
+Week 2, Time 6:30, Field 2: ('Firestorm', 'Thunderbolts')
+Week 3, Time 6:30, Field 1: ('Firestorm', 'Mavericks')
+Week 3, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')

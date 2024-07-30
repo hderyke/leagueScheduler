@@ -1,0 +1,67 @@
+game count:
+{'Thunderbolts': 20, 'Firestorm': 20, 'Mavericks': 20, 'Avalanche': 20}
+break count
+{'Thunderbolts': 0, 'Firestorm': 0, 'Mavericks': 0, 'Avalanche': 0}
+
+Team Play Count Matrix:
+Teams          Thunderbolts    Firestorm       Mavericks       Avalanche      
+Thunderbolts   0               6               7               7              
+Firestorm      6               0               7               7              
+Mavericks      7               7               0               6              
+Avalanche      7               7               6               0              
+Thunderbolts:
+  6:30: 10
+  7:30: 10
+
+Firestorm:
+  6:30: 10
+  7:30: 10
+
+Mavericks:
+  6:30: 10
+  7:30: 10
+
+Avalanche:
+  6:30: 10
+  7:30: 10
+
+Week 1, Time 6:30, Field 1: ('Avalanche', 'Thunderbolts')
+Week 1, Time 6:30, Field 2: ('Firestorm', 'Mavericks')
+Week 1, Time 7:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 1, Time 7:30, Field 2: ('Avalanche', 'Firestorm')
+Week 2, Time 6:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 2, Time 6:30, Field 2: ('Avalanche', 'Mavericks')
+Week 2, Time 7:30, Field 1: ('Avalanche', 'Firestorm')
+Week 2, Time 7:30, Field 2: ('Mavericks', 'Thunderbolts')
+Week 3, Time 6:30, Field 1: ('Avalanche', 'Thunderbolts')
+Week 3, Time 6:30, Field 2: ('Firestorm', 'Mavericks')
+Week 3, Time 7:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 3, Time 7:30, Field 2: ('Avalanche', 'Mavericks')
+Week 4, Time 6:30, Field 1: ('Firestorm', 'Mavericks')
+Week 4, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 4, Time 7:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 4, Time 7:30, Field 2: ('Avalanche', 'Firestorm')
+Week 5, Time 6:30, Field 1: ('Avalanche', 'Mavericks')
+Week 5, Time 6:30, Field 2: ('Firestorm', 'Thunderbolts')
+Week 5, Time 7:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 5, Time 7:30, Field 2: ('Avalanche', 'Mavericks')
+Week 6, Time 6:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 6, Time 6:30, Field 2: ('Avalanche', 'Firestorm')
+Week 6, Time 7:30, Field 1: ('Firestorm', 'Mavericks')
+Week 6, Time 7:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 7, Time 6:30, Field 1: ('Firestorm', 'Mavericks')
+Week 7, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 7, Time 7:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 7, Time 7:30, Field 2: ('Avalanche', 'Firestorm')
+Week 8, Time 6:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 8, Time 6:30, Field 2: ('Avalanche', 'Mavericks')
+Week 8, Time 7:30, Field 1: ('Avalanche', 'Firestorm')
+Week 8, Time 7:30, Field 2: ('Mavericks', 'Thunderbolts')
+Week 9, Time 6:30, Field 1: ('Avalanche', 'Mavericks')
+Week 9, Time 6:30, Field 2: ('Firestorm', 'Thunderbolts')
+Week 9, Time 7:30, Field 1: ('Firestorm', 'Mavericks')
+Week 9, Time 7:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 10, Time 6:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 10, Time 6:30, Field 2: ('Avalanche', 'Firestorm')
+Week 10, Time 7:30, Field 1: ('Firestorm', 'Mavericks')
+Week 10, Time 7:30, Field 2: ('Avalanche', 'Thunderbolts')

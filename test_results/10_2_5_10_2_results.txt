@@ -1,0 +1,157 @@
+game count:
+{'Thunderbolts': 20, 'Firestorm': 20, 'Mavericks': 20, 'Avalanche': 20, 'Hurricanes': 20, 'Dragons': 20, 'Wildcats': 20, 'Titans': 20, 'Stingrays': 20, 'Chargers': 20}
+break count
+{'Thunderbolts': 0, 'Firestorm': 0, 'Mavericks': 0, 'Avalanche': 0, 'Hurricanes': 0, 'Dragons': 0, 'Wildcats': 0, 'Titans': 0, 'Stingrays': 0, 'Chargers': 0}
+
+Team Play Count Matrix:
+Teams          Thunderbolts    Firestorm       Mavericks       Avalanche       Hurricanes      Dragons         Wildcats        Titans          Stingrays       Chargers       
+Thunderbolts   0               2               3               3               2               2               2               2               2               2              
+Firestorm      2               0               2               3               2               2               2               2               2               3              
+Mavericks      3               2               0               2               2               2               2               2               3               2              
+Avalanche      3               3               2               0               2               2               2               2               2               2              
+Hurricanes     2               2               2               2               0               3               3               2               2               2              
+Dragons        2               2               2               2               3               0               2               3               2               2              
+Wildcats       2               2               2               2               3               2               0               2               2               3              
+Titans         2               2               2               2               2               3               2               0               3               2              
+Stingrays      2               2               3               2               2               2               2               3               0               2              
+Chargers       2               3               2               2               2               2               3               2               2               0              
+Thunderbolts:
+  6:30: 10
+  7:30: 10
+
+Firestorm:
+  6:30: 10
+  7:30: 10
+
+Mavericks:
+  6:30: 10
+  7:30: 10
+
+Avalanche:
+  6:30: 10
+  7:30: 10
+
+Hurricanes:
+  6:30: 10
+  7:30: 10
+
+Dragons:
+  6:30: 10
+  7:30: 10
+
+Wildcats:
+  6:30: 10
+  7:30: 10
+
+Titans:
+  6:30: 10
+  7:30: 10
+
+Stingrays:
+  6:30: 10
+  7:30: 10
+
+Chargers:
+  6:30: 10
+  7:30: 10
+
+Week 1, Time 6:30, Field 1: ('Dragons', 'Hurricanes')
+Week 1, Time 6:30, Field 2: ('Avalanche', 'Wildcats')
+Week 1, Time 6:30, Field 3: ('Firestorm', 'Mavericks')
+Week 1, Time 6:30, Field 4: ('Chargers', 'Stingrays')
+Week 1, Time 6:30, Field 5: ('Thunderbolts', 'Titans')
+Week 1, Time 7:30, Field 1: ('Chargers', 'Hurricanes')
+Week 1, Time 7:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 1, Time 7:30, Field 3: ('Mavericks', 'Wildcats')
+Week 1, Time 7:30, Field 4: ('Stingrays', 'Titans')
+Week 1, Time 7:30, Field 5: ('Dragons', 'Firestorm')
+Week 2, Time 6:30, Field 1: ('Chargers', 'Thunderbolts')
+Week 2, Time 6:30, Field 2: ('Hurricanes', 'Mavericks')
+Week 2, Time 6:30, Field 3: ('Firestorm', 'Titans')
+Week 2, Time 6:30, Field 4: ('Dragons', 'Wildcats')
+Week 2, Time 6:30, Field 5: ('Avalanche', 'Stingrays')
+Week 2, Time 7:30, Field 1: ('Avalanche', 'Firestorm')
+Week 2, Time 7:30, Field 2: ('Chargers', 'Dragons')
+Week 2, Time 7:30, Field 3: ('Hurricanes', 'Titans')
+Week 2, Time 7:30, Field 4: ('Mavericks', 'Thunderbolts')
+Week 2, Time 7:30, Field 5: ('Stingrays', 'Wildcats')
+Week 3, Time 6:30, Field 1: ('Chargers', 'Mavericks')
+Week 3, Time 6:30, Field 2: ('Hurricanes', 'Stingrays')
+Week 3, Time 6:30, Field 3: ('Dragons', 'Thunderbolts')
+Week 3, Time 6:30, Field 4: ('Avalanche', 'Titans')
+Week 3, Time 6:30, Field 5: ('Firestorm', 'Wildcats')
+Week 3, Time 7:30, Field 1: ('Chargers', 'Wildcats')
+Week 3, Time 7:30, Field 2: ('Avalanche', 'Hurricanes')
+Week 3, Time 7:30, Field 3: ('Mavericks', 'Titans')
+Week 3, Time 7:30, Field 4: ('Firestorm', 'Thunderbolts')
+Week 3, Time 7:30, Field 5: ('Dragons', 'Stingrays')
+Week 4, Time 6:30, Field 1: ('Dragons', 'Mavericks')
+Week 4, Time 6:30, Field 2: ('Hurricanes', 'Thunderbolts')
+Week 4, Time 6:30, Field 3: ('Titans', 'Wildcats')
+Week 4, Time 6:30, Field 4: ('Firestorm', 'Stingrays')
+Week 4, Time 6:30, Field 5: ('Avalanche', 'Chargers')
+Week 4, Time 7:30, Field 1: ('Hurricanes', 'Wildcats')
+Week 4, Time 7:30, Field 2: ('Stingrays', 'Thunderbolts')
+Week 4, Time 7:30, Field 3: ('Avalanche', 'Mavericks')
+Week 4, Time 7:30, Field 4: ('Dragons', 'Titans')
+Week 4, Time 7:30, Field 5: ('Chargers', 'Firestorm')
+Week 5, Time 6:30, Field 1: ('Thunderbolts', 'Wildcats')
+Week 5, Time 6:30, Field 2: ('Firestorm', 'Hurricanes')
+Week 5, Time 6:30, Field 3: ('Mavericks', 'Stingrays')
+Week 5, Time 6:30, Field 4: ('Avalanche', 'Dragons')
+Week 5, Time 6:30, Field 5: ('Chargers', 'Titans')
+Week 5, Time 7:30, Field 1: ('Hurricanes', 'Thunderbolts')
+Week 5, Time 7:30, Field 2: ('Stingrays', 'Titans')
+Week 5, Time 7:30, Field 3: ('Dragons', 'Wildcats')
+Week 5, Time 7:30, Field 4: ('Avalanche', 'Mavericks')
+Week 5, Time 7:30, Field 5: ('Chargers', 'Firestorm')
+Week 6, Time 6:30, Field 1: ('Chargers', 'Mavericks')
+Week 6, Time 6:30, Field 2: ('Hurricanes', 'Stingrays')
+Week 6, Time 6:30, Field 3: ('Firestorm', 'Titans')
+Week 6, Time 6:30, Field 4: ('Thunderbolts', 'Wildcats')
+Week 6, Time 6:30, Field 5: ('Avalanche', 'Dragons')
+Week 6, Time 7:30, Field 1: ('Avalanche', 'Stingrays')
+Week 6, Time 7:30, Field 2: ('Hurricanes', 'Mavericks')
+Week 6, Time 7:30, Field 3: ('Chargers', 'Titans')
+Week 6, Time 7:30, Field 4: ('Firestorm', 'Wildcats')
+Week 6, Time 7:30, Field 5: ('Dragons', 'Thunderbolts')
+Week 7, Time 6:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 7, Time 6:30, Field 2: ('Firestorm', 'Hurricanes')
+Week 7, Time 6:30, Field 3: ('Dragons', 'Titans')
+Week 7, Time 6:30, Field 4: ('Chargers', 'Stingrays')
+Week 7, Time 6:30, Field 5: ('Avalanche', 'Wildcats')
+Week 7, Time 7:30, Field 1: ('Chargers', 'Wildcats')
+Week 7, Time 7:30, Field 2: ('Firestorm', 'Stingrays')
+Week 7, Time 7:30, Field 3: ('Thunderbolts', 'Titans')
+Week 7, Time 7:30, Field 4: ('Avalanche', 'Hurricanes')
+Week 7, Time 7:30, Field 5: ('Dragons', 'Mavericks')
+Week 8, Time 6:30, Field 1: ('Titans', 'Wildcats')
+Week 8, Time 6:30, Field 2: ('Avalanche', 'Chargers')
+Week 8, Time 6:30, Field 3: ('Firestorm', 'Mavericks')
+Week 8, Time 6:30, Field 4: ('Stingrays', 'Thunderbolts')
+Week 8, Time 6:30, Field 5: ('Dragons', 'Hurricanes')
+Week 8, Time 7:30, Field 1: ('Dragons', 'Firestorm')
+Week 8, Time 7:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 8, Time 7:30, Field 3: ('Mavericks', 'Titans')
+Week 8, Time 7:30, Field 4: ('Stingrays', 'Wildcats')
+Week 8, Time 7:30, Field 5: ('Chargers', 'Hurricanes')
+Week 9, Time 6:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 9, Time 6:30, Field 2: ('Mavericks', 'Stingrays')
+Week 9, Time 6:30, Field 3: ('Avalanche', 'Titans')
+Week 9, Time 6:30, Field 4: ('Chargers', 'Dragons')
+Week 9, Time 6:30, Field 5: ('Hurricanes', 'Wildcats')
+Week 9, Time 7:30, Field 1: ('Chargers', 'Thunderbolts')
+Week 9, Time 7:30, Field 2: ('Avalanche', 'Firestorm')
+Week 9, Time 7:30, Field 3: ('Mavericks', 'Wildcats')
+Week 9, Time 7:30, Field 4: ('Hurricanes', 'Titans')
+Week 9, Time 7:30, Field 5: ('Dragons', 'Stingrays')
+Week 10, Time 6:30, Field 1: ('Avalanche', 'Firestorm')
+Week 10, Time 6:30, Field 2: ('Dragons', 'Hurricanes')
+Week 10, Time 6:30, Field 3: ('Mavericks', 'Thunderbolts')
+Week 10, Time 6:30, Field 4: ('Chargers', 'Wildcats')
+Week 10, Time 6:30, Field 5: ('Stingrays', 'Titans')
+Week 10, Time 7:30, Field 1: ('Hurricanes', 'Wildcats')
+Week 10, Time 7:30, Field 2: ('Chargers', 'Firestorm')
+Week 10, Time 7:30, Field 3: ('Avalanche', 'Thunderbolts')
+Week 10, Time 7:30, Field 4: ('Dragons', 'Titans')
+Week 10, Time 7:30, Field 5: ('Mavericks', 'Stingrays')

@@ -1,0 +1,46 @@
+game count:
+{'Thunderbolts': 5, 'Firestorm': 5, 'Mavericks': 5, 'Avalanche': 5, 'Hurricanes': 5, 'Dragons': 5}
+break count
+{'Thunderbolts': 0, 'Firestorm': 0, 'Mavericks': 0, 'Avalanche': 0, 'Hurricanes': 0, 'Dragons': 0}
+
+Team Play Count Matrix:
+Teams          Thunderbolts    Firestorm       Mavericks       Avalanche       Hurricanes      Dragons        
+Thunderbolts   0               1               1               1               1               1              
+Firestorm      1               0               1               1               1               1              
+Mavericks      1               1               0               1               1               1              
+Avalanche      1               1               1               0               1               1              
+Hurricanes     1               1               1               1               0               1              
+Dragons        1               1               1               1               1               0              
+Thunderbolts:
+  6:30: 5
+
+Firestorm:
+  6:30: 5
+
+Mavericks:
+  6:30: 5
+
+Avalanche:
+  6:30: 5
+
+Hurricanes:
+  6:30: 5
+
+Dragons:
+  6:30: 5
+
+Week 1, Time 6:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 1, Time 6:30, Field 2: ('Dragons', 'Hurricanes')
+Week 1, Time 6:30, Field 3: ('Avalanche', 'Firestorm')
+Week 2, Time 6:30, Field 1: ('Avalanche', 'Dragons')
+Week 2, Time 6:30, Field 2: ('Hurricanes', 'Thunderbolts')
+Week 2, Time 6:30, Field 3: ('Firestorm', 'Mavericks')
+Week 3, Time 6:30, Field 1: ('Avalanche', 'Hurricanes')
+Week 3, Time 6:30, Field 2: ('Dragons', 'Mavericks')
+Week 3, Time 6:30, Field 3: ('Firestorm', 'Thunderbolts')
+Week 4, Time 6:30, Field 1: ('Dragons', 'Firestorm')
+Week 4, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 4, Time 6:30, Field 3: ('Hurricanes', 'Mavericks')
+Week 5, Time 6:30, Field 1: ('Firestorm', 'Hurricanes')
+Week 5, Time 6:30, Field 2: ('Dragons', 'Thunderbolts')
+Week 5, Time 6:30, Field 3: ('Avalanche', 'Mavericks')

@@ -1,0 +1,47 @@
+game count:
+{'Thunderbolts': 12, 'Firestorm': 12, 'Mavericks': 12, 'Avalanche': 12}
+break count
+{'Thunderbolts': 0, 'Firestorm': 0, 'Mavericks': 0, 'Avalanche': 0}
+
+Team Play Count Matrix:
+Teams          Thunderbolts    Firestorm       Mavericks       Avalanche      
+Thunderbolts   0               4               4               4              
+Firestorm      4               0               4               4              
+Mavericks      4               4               0               4              
+Avalanche      4               4               4               0              
+Thunderbolts:
+  6:30: 12
+
+Firestorm:
+  6:30: 12
+
+Mavericks:
+  6:30: 12
+
+Avalanche:
+  6:30: 12
+
+Week 1, Time 6:30, Field 1: ('Avalanche', 'Mavericks')
+Week 1, Time 6:30, Field 2: ('Firestorm', 'Thunderbolts')
+Week 2, Time 6:30, Field 1: ('Avalanche', 'Thunderbolts')
+Week 2, Time 6:30, Field 2: ('Firestorm', 'Mavericks')
+Week 3, Time 6:30, Field 1: ('Mavericks', 'Thunderbolts')
+Week 3, Time 6:30, Field 2: ('Avalanche', 'Firestorm')
+Week 4, Time 6:30, Field 1: ('Avalanche', 'Firestorm')
+Week 4, Time 6:30, Field 2: ('Mavericks', 'Thunderbolts')
+Week 5, Time 6:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 5, Time 6:30, Field 2: ('Avalanche', 'Mavericks')
+Week 6, Time 6:30, Field 1: ('Firestorm', 'Mavericks')
+Week 6, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 7, Time 6:30, Field 1: ('Avalanche', 'Mavericks')
+Week 7, Time 6:30, Field 2: ('Firestorm', 'Thunderbolts')
+Week 8, Time 6:30, Field 1: ('Avalanche', 'Firestorm')
+Week 8, Time 6:30, Field 2: ('Mavericks', 'Thunderbolts')
+Week 9, Time 6:30, Field 1: ('Firestorm', 'Mavericks')
+Week 9, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 10, Time 6:30, Field 1: ('Firestorm', 'Mavericks')
+Week 10, Time 6:30, Field 2: ('Avalanche', 'Thunderbolts')
+Week 11, Time 6:30, Field 1: ('Avalanche', 'Firestorm')
+Week 11, Time 6:30, Field 2: ('Mavericks', 'Thunderbolts')
+Week 12, Time 6:30, Field 1: ('Firestorm', 'Thunderbolts')
+Week 12, Time 6:30, Field 2: ('Avalanche', 'Mavericks')
