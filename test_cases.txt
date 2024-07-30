@@ -1,1 +1,89 @@
+basic tests- small
+4 2 2 2 2
+6 3 2 3 2
+6 2 3 3 2
+
+basic tests- medium
+8 2 4 4 2
+8 4 2 4 2
+10 2 5 5 2
+
+basic tests- large
 12 3 4 6 2
+12 4 3 6 2
+12 2 6 6 2
+
+
+1 gpw - small
+4 2 1 3 1
+6 3 1 5 1
+
+1 gpw- medium
+8 4 1 7 1
+8 2 2  7 1
+10 1 5 9 1
+
+1 gpw- large
+12 2 3 11 1
+12 3 2 11 1
+
+
+teams play each other more than once- small
+
+4 2 2 4 2
+4 2 2 6 2
+4 2 2 8 2
+4 2 2 10 2
+4 2 2 12 2
+6 2 3 6 2
+6 2 3 9 2
+6 2 3 12 2
+6 3 2 6 2
+6 3 2 8 2
+6 3 2 11 2
+
+
+
+teams play each other more than once- medium/ large
+8 2 4 8 2
+8 2 4 12 2
+8 4 2 8 2
+8 4 2 12 2
+10 2 5 10 2
+12 3 4 11 2
+12 4 3 11 2
+
+
+
+end basic tests
+
+16s
+16 2 8 8 2
+16 4 4 8 2
+
+
+plays once a week AND each team multiple times (4-6 teams)
+4 1 2 8 1
+4 1 2 12 1
+4 2 1 8 1
+4 2 1 12 1
+6 3 1 12 1
+6 1 3 12 1
+
+
+
+1 slot/ 1 field, n fields
+
+4 1 2 3 1
+6 1 6 3 2
+6 1 3 5 1
+8 1 4 7 1
+10 1 5 9 1
+12 1 6 11 1
+4 4 1 4 2
+4 4 1 6 2
+4 4 1 8 2
+4 4 1 10 2
+4 4 1 2 2
+
+
