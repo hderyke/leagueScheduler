@@ -1,0 +1,167 @@
+---------TEST SCORES--------
+Break distribution: 5.0
+Break distribution range: 5
+Time slot distribution: 5.0
+Time slot distribution range: 5
+
+Total: 20.0
+------------------------------
+10 2 5 10 2
+game count:
+{'Team_1': 20, 'Team_2': 20, 'Team_3': 20, 'Team_4': 20, 'Team_5': 20, 'Team_6': 20, 'Team_7': 20, 'Team_8': 20, 'Team_9': 20, 'Team_10': 20}
+break count
+{'Team_1': 0, 'Team_2': 0, 'Team_3': 0, 'Team_4': 0, 'Team_5': 0, 'Team_6': 0, 'Team_7': 0, 'Team_8': 0, 'Team_9': 0, 'Team_10': 0}
+
+Team Play Count Matrix:
+Teams          Team_1          Team_2          Team_3          Team_4          Team_5          Team_6          Team_7          Team_8          Team_9          Team_10        
+Team_1         0               2               2               2               2               3               3               2               2               2              
+Team_2         2               0               3               2               2               2               2               2               2               3              
+Team_3         2               3               0               2               2               2               3               2               2               2              
+Team_4         2               2               2               0               2               2               2               3               3               2              
+Team_5         2               2               2               2               0               3               2               3               2               2              
+Team_6         3               2               2               2               3               0               2               2               2               2              
+Team_7         3               2               3               2               2               2               0               2               2               2              
+Team_8         2               2               2               3               3               2               2               0               2               2              
+Team_9         2               2               2               3               2               2               2               2               0               3              
+Team_10        2               3               2               2               2               2               2               2               3               0              
+
+Team_1:
+  6:30: 10
+  7:30: 10
+
+Team_2:
+  6:30: 10
+  7:30: 10
+
+Team_3:
+  6:30: 10
+  7:30: 10
+
+Team_4:
+  6:30: 10
+  7:30: 10
+
+Team_5:
+  6:30: 10
+  7:30: 10
+
+Team_6:
+  6:30: 10
+  7:30: 10
+
+Team_7:
+  6:30: 10
+  7:30: 10
+
+Team_8:
+  6:30: 10
+  7:30: 10
+
+Team_9:
+  6:30: 10
+  7:30: 10
+
+Team_10:
+  6:30: 10
+  7:30: 10
+
+Week 1, Time 6:30, Field 1: ('Team_3', 'Team_5')
+Week 1, Time 6:30, Field 2: ('Team_1', 'Team_8')
+Week 1, Time 6:30, Field 3: ('Team_2', 'Team_6')
+Week 1, Time 6:30, Field 4: ('Team_7', 'Team_9')
+Week 1, Time 6:30, Field 5: ('Team_10', 'Team_4')
+Week 1, Time 7:30, Field 1: ('Team_7', 'Team_8')
+Week 1, Time 7:30, Field 2: ('Team_3', 'Team_4')
+Week 1, Time 7:30, Field 3: ('Team_1', 'Team_5')
+Week 1, Time 7:30, Field 4: ('Team_10', 'Team_6')
+Week 1, Time 7:30, Field 5: ('Team_2', 'Team_9')
+Week 2, Time 6:30, Field 1: ('Team_10', 'Team_3')
+Week 2, Time 6:30, Field 2: ('Team_5', 'Team_6')
+Week 2, Time 6:30, Field 3: ('Team_4', 'Team_9')
+Week 2, Time 6:30, Field 4: ('Team_1', 'Team_7')
+Week 2, Time 6:30, Field 5: ('Team_2', 'Team_8')
+Week 2, Time 7:30, Field 1: ('Team_2', 'Team_7')
+Week 2, Time 7:30, Field 2: ('Team_5', 'Team_9')
+Week 2, Time 7:30, Field 3: ('Team_1', 'Team_10')
+Week 2, Time 7:30, Field 4: ('Team_3', 'Team_6')
+Week 2, Time 7:30, Field 5: ('Team_4', 'Team_8')
+Week 3, Time 6:30, Field 1: ('Team_1', 'Team_3')
+Week 3, Time 6:30, Field 2: ('Team_10', 'Team_8')
+Week 3, Time 6:30, Field 3: ('Team_5', 'Team_7')
+Week 3, Time 6:30, Field 4: ('Team_6', 'Team_9')
+Week 3, Time 6:30, Field 5: ('Team_2', 'Team_4')
+Week 3, Time 7:30, Field 1: ('Team_10', 'Team_5')
+Week 3, Time 7:30, Field 2: ('Team_6', 'Team_7')
+Week 3, Time 7:30, Field 3: ('Team_2', 'Team_3')
+Week 3, Time 7:30, Field 4: ('Team_8', 'Team_9')
+Week 3, Time 7:30, Field 5: ('Team_1', 'Team_4')
+Week 4, Time 6:30, Field 1: ('Team_1', 'Team_9')
+Week 4, Time 6:30, Field 2: ('Team_4', 'Team_6')
+Week 4, Time 6:30, Field 3: ('Team_3', 'Team_7')
+Week 4, Time 6:30, Field 4: ('Team_5', 'Team_8')
+Week 4, Time 6:30, Field 5: ('Team_10', 'Team_2')
+Week 4, Time 7:30, Field 1: ('Team_1', 'Team_2')
+Week 4, Time 7:30, Field 2: ('Team_10', 'Team_7')
+Week 4, Time 7:30, Field 3: ('Team_4', 'Team_5')
+Week 4, Time 7:30, Field 4: ('Team_3', 'Team_9')
+Week 4, Time 7:30, Field 5: ('Team_6', 'Team_8')
+Week 5, Time 6:30, Field 1: ('Team_4', 'Team_7')
+Week 5, Time 6:30, Field 2: ('Team_2', 'Team_5')
+Week 5, Time 6:30, Field 3: ('Team_1', 'Team_6')
+Week 5, Time 6:30, Field 4: ('Team_3', 'Team_8')
+Week 5, Time 6:30, Field 5: ('Team_10', 'Team_9')
+Week 5, Time 7:30, Field 1: ('Team_1', 'Team_7')
+Week 5, Time 7:30, Field 2: ('Team_10', 'Team_9')
+Week 5, Time 7:30, Field 3: ('Team_2', 'Team_8')
+Week 5, Time 7:30, Field 4: ('Team_4', 'Team_5')
+Week 5, Time 7:30, Field 5: ('Team_3', 'Team_6')
+Week 6, Time 6:30, Field 1: ('Team_6', 'Team_9')
+Week 6, Time 6:30, Field 2: ('Team_4', 'Team_8')
+Week 6, Time 6:30, Field 3: ('Team_1', 'Team_10')
+Week 6, Time 6:30, Field 4: ('Team_3', 'Team_7')
+Week 6, Time 6:30, Field 5: ('Team_2', 'Team_5')
+Week 6, Time 7:30, Field 1: ('Team_6', 'Team_8')
+Week 6, Time 7:30, Field 2: ('Team_2', 'Team_7')
+Week 6, Time 7:30, Field 3: ('Team_5', 'Team_9')
+Week 6, Time 7:30, Field 4: ('Team_10', 'Team_4')
+Week 6, Time 7:30, Field 5: ('Team_1', 'Team_3')
+Week 7, Time 6:30, Field 1: ('Team_7', 'Team_8')
+Week 7, Time 6:30, Field 2: ('Team_10', 'Team_5')
+Week 7, Time 6:30, Field 3: ('Team_2', 'Team_4')
+Week 7, Time 6:30, Field 4: ('Team_3', 'Team_9')
+Week 7, Time 6:30, Field 5: ('Team_1', 'Team_6')
+Week 7, Time 7:30, Field 1: ('Team_10', 'Team_7')
+Week 7, Time 7:30, Field 2: ('Team_5', 'Team_8')
+Week 7, Time 7:30, Field 3: ('Team_4', 'Team_6')
+Week 7, Time 7:30, Field 4: ('Team_2', 'Team_3')
+Week 7, Time 7:30, Field 5: ('Team_1', 'Team_9')
+Week 8, Time 6:30, Field 1: ('Team_6', 'Team_7')
+Week 8, Time 6:30, Field 2: ('Team_3', 'Team_5')
+Week 8, Time 6:30, Field 3: ('Team_1', 'Team_8')
+Week 8, Time 6:30, Field 4: ('Team_10', 'Team_2')
+Week 8, Time 6:30, Field 5: ('Team_4', 'Team_9')
+Week 8, Time 7:30, Field 1: ('Team_3', 'Team_4')
+Week 8, Time 7:30, Field 2: ('Team_2', 'Team_6')
+Week 8, Time 7:30, Field 3: ('Team_10', 'Team_8')
+Week 8, Time 7:30, Field 4: ('Team_1', 'Team_5')
+Week 8, Time 7:30, Field 5: ('Team_7', 'Team_9')
+Week 9, Time 6:30, Field 1: ('Team_2', 'Team_9')
+Week 9, Time 6:30, Field 2: ('Team_3', 'Team_8')
+Week 9, Time 6:30, Field 3: ('Team_1', 'Team_4')
+Week 9, Time 6:30, Field 4: ('Team_10', 'Team_6')
+Week 9, Time 6:30, Field 5: ('Team_5', 'Team_7')
+Week 9, Time 7:30, Field 1: ('Team_10', 'Team_3')
+Week 9, Time 7:30, Field 2: ('Team_8', 'Team_9')
+Week 9, Time 7:30, Field 3: ('Team_4', 'Team_7')
+Week 9, Time 7:30, Field 4: ('Team_5', 'Team_6')
+Week 9, Time 7:30, Field 5: ('Team_1', 'Team_2')
+Week 10, Time 6:30, Field 1: ('Team_2', 'Team_3')
+Week 10, Time 6:30, Field 2: ('Team_5', 'Team_6')
+Week 10, Time 6:30, Field 3: ('Team_4', 'Team_8')
+Week 10, Time 6:30, Field 4: ('Team_10', 'Team_9')
+Week 10, Time 6:30, Field 5: ('Team_1', 'Team_7')
+Week 10, Time 7:30, Field 1: ('Team_1', 'Team_6')
+Week 10, Time 7:30, Field 2: ('Team_5', 'Team_8')
+Week 10, Time 7:30, Field 3: ('Team_3', 'Team_7')
+Week 10, Time 7:30, Field 4: ('Team_10', 'Team_2')
+Week 10, Time 7:30, Field 5: ('Team_4', 'Team_9')

@@ -1,0 +1,61 @@
+---------TEST SCORES--------
+Break distribution: 2.5
+Break distribution range: 4
+Time slot distribution: 1.25
+Time slot distribution range: 1
+
+Total: 8.75
+------------------------------
+4 4 1 4 2
+game count:
+{'Team_1': 8, 'Team_2': 8, 'Team_3': 8, 'Team_4': 8}
+break count
+{'Team_1': 2, 'Team_2': 2, 'Team_3': 3, 'Team_4': 3}
+
+Team Play Count Matrix:
+Teams          Team_1          Team_2          Team_3          Team_4         
+Team_1         0               2               3               3              
+Team_2         2               0               3               3              
+Team_3         3               3               0               2              
+Team_4         3               3               2               0              
+
+Team_1:
+  6:30: 2
+  7:30: 2
+  8:30: 2
+  9:30: 2
+
+Team_2:
+  6:30: 3
+  7:30: 1
+  8:30: 3
+  9:30: 1
+
+Team_3:
+  6:30: 1
+  7:30: 4
+  8:30: 0
+  9:30: 3
+
+Team_4:
+  6:30: 2
+  7:30: 1
+  8:30: 3
+  9:30: 2
+
+Week 1, Time 6:30, Field 1: ('Team_2', 'Team_4')
+Week 1, Time 7:30, Field 1: ('Team_2', 'Team_3')
+Week 1, Time 8:30, Field 1: ('Team_1', 'Team_4')
+Week 1, Time 9:30, Field 1: ('Team_1', 'Team_3')
+Week 2, Time 6:30, Field 1: ('Team_1', 'Team_2')
+Week 2, Time 7:30, Field 1: ('Team_3', 'Team_4')
+Week 2, Time 8:30, Field 1: ('Team_1', 'Team_2')
+Week 2, Time 9:30, Field 1: ('Team_3', 'Team_4')
+Week 3, Time 6:30, Field 1: ('Team_2', 'Team_3')
+Week 3, Time 7:30, Field 1: ('Team_1', 'Team_3')
+Week 3, Time 8:30, Field 1: ('Team_2', 'Team_4')
+Week 3, Time 9:30, Field 1: ('Team_1', 'Team_4')
+Week 4, Time 6:30, Field 1: ('Team_1', 'Team_4')
+Week 4, Time 7:30, Field 1: ('Team_1', 'Team_3')
+Week 4, Time 8:30, Field 1: ('Team_2', 'Team_4')
+Week 4, Time 9:30, Field 1: ('Team_2', 'Team_3')
